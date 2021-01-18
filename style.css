@@ -1,0 +1,11 @@
+body
+{
+	background :rgb(87, 98, 155);
+}
+.divlogin_1 , .divlogin_2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
